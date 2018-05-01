@@ -1,0 +1,72 @@
+<div class="container brick">
+  
+  <section class="home-categories neighborhoods">
+  <article class="category neighborhoods col-lg-12">
+    <a href="/en/wicker-park" class="wrapper">
+      <header>
+        <div class="outer">
+          <h2>Wicker Park</h2>
+        </div>
+      </header>
+      <figure>  
+        <img src="https://res-3.cloudinary.com/bookingsync/image/upload/lbn0awdm1me5dtnf8gqo.jpg">          
+      </figure>
+    </a>
+           
+    <a href="/en/river-north" class="wrapper">
+      <header>
+        <div class="outer">
+          <h2>River North</h2>
+        </div>
+      </header>
+      <figure>  
+        <img src="https://res-5.cloudinary.com/bookingsync/image/upload/c_fill,fl_progressive,g_center,h_800,q_90,w_900/q3kxgr6o18l7ur3dbwtu.jpg">          
+      </figure>
+    </a>
+    
+    <a href="/en/west-loop" class="wrapper">
+      <header>
+        <div class="outer">
+          <h2>West Loop</h2>
+        </div>
+      </header>
+      <figure>  
+        <img src="https://res-4.cloudinary.com/bookingsync/image/upload/c_fill,fl_progressive,g_center,h_800,q_90,w_1400/bmtxhfes9sc0iez0pgp6.jpg">          
+      </figure>
+    </a>
+  
+    <a href="/en/gold-coast" class="wrapper">
+      <header>
+        <div class="outer">
+          <h2>Gold Coast</h2>
+        </div>
+      </header>
+      <figure>  
+        <img src="/assets/themes/896/images/gold_coast_banner.jpg">          
+      </figure>
+    </a>
+ 
+    <a href="/en/the-loop" class="wrapper">
+      <header>
+        <div class="outer">
+          <h2>The Loop</h2>
+        </div>
+      </header>
+      <figure>  
+        <img src="https://res-4.cloudinary.com/bookingsync/image/upload/c_fill,fl_progressive,g_center,h_800,q_90,w_1200/gvvce9oagiuuxecek1sz.jpg?format=2500w">          
+      </figure>
+    </a>
+ 
+    <a href="/en/hyde-park" class="wrapper">
+      <header>
+        <div class="outer">
+          <h2>Hyde Park</h2>
+        </div>
+      </header>
+      <figure>  
+        <img src="/assets/themes/896/images/obama_library_rendering.jpg">          
+      </figure>
+    </a>
+  
+  </section>
+  </div>
